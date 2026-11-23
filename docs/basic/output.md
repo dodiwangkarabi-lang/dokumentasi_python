@@ -71,3 +71,7 @@ print(a * b)
 15
 50
 ```
+
+## Referensi
+- [w3schools python basic](https://www.w3schools.com/python/)
+- [geeksforgeeks python basic](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
