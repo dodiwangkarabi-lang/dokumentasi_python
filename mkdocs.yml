@@ -1,0 +1,34 @@
+site_name: My Docs
+site_description: Dokumentasi
+site_author: Dodiman
+
+markdown_extensions: 
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+extra: 
+  generator: false
+
+extra_css: 
+  - assets/css/custom.css
+
+theme: 
+  name: material
+  language: id
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+
+nav:
+  - basic:
+    - output: basic/output.md
