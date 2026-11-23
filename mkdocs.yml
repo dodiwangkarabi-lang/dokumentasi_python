@@ -30,5 +30,5 @@ theme:
 
 
 nav:
-  - basic:
+  - python:
     - output: basic/output.md
